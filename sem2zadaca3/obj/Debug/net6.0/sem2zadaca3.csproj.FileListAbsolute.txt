@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\bin\Debug\net6.0\sem2zadaca3.exe
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\bin\Debug\net6.0\sem2zadaca3.deps.json
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\bin\Debug\net6.0\sem2zadaca3.runtimeconfig.json
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\bin\Debug\net6.0\sem2zadaca3.dll
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\bin\Debug\net6.0\sem2zadaca3.pdb
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.dll
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\refint\sem2zadaca3.dll
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.pdb
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\sem2zadaca3.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\seminar1\sem2zadaca3\obj\Debug\net6.0\ref\sem2zadaca3.dll
