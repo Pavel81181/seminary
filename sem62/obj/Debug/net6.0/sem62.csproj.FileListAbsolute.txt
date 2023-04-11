@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem62\bin\Debug\net6.0\sem62.exe
+C:\Users\Ольга\Desktop\seminar1\sem62\bin\Debug\net6.0\sem62.deps.json
+C:\Users\Ольга\Desktop\seminar1\sem62\bin\Debug\net6.0\sem62.runtimeconfig.json
+C:\Users\Ольга\Desktop\seminar1\sem62\bin\Debug\net6.0\sem62.dll
+C:\Users\Ольга\Desktop\seminar1\sem62\bin\Debug\net6.0\sem62.pdb
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.dll
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\refint\sem62.dll
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.pdb
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\sem62.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\seminar1\sem62\obj\Debug\net6.0\ref\sem62.dll

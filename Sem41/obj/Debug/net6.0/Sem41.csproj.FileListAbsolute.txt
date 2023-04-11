@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\seminar1\Sem41\bin\Debug\net6.0\Sem41.exe
+C:\Users\Ольга\Desktop\seminar1\Sem41\bin\Debug\net6.0\Sem41.deps.json
+C:\Users\Ольга\Desktop\seminar1\Sem41\bin\Debug\net6.0\Sem41.runtimeconfig.json
+C:\Users\Ольга\Desktop\seminar1\Sem41\bin\Debug\net6.0\Sem41.dll
+C:\Users\Ольга\Desktop\seminar1\Sem41\bin\Debug\net6.0\Sem41.pdb
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.dll
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\refint\Sem41.dll
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.pdb
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\Sem41.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\seminar1\Sem41\obj\Debug\net6.0\ref\Sem41.dll

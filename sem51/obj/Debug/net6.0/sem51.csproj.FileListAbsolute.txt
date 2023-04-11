@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\seminar1\sem51\bin\Debug\net6.0\sem51.exe
+C:\Users\Ольга\Desktop\seminar1\sem51\bin\Debug\net6.0\sem51.deps.json
+C:\Users\Ольга\Desktop\seminar1\sem51\bin\Debug\net6.0\sem51.runtimeconfig.json
+C:\Users\Ольга\Desktop\seminar1\sem51\bin\Debug\net6.0\sem51.dll
+C:\Users\Ольга\Desktop\seminar1\sem51\bin\Debug\net6.0\sem51.pdb
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.dll
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\refint\sem51.dll
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.pdb
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\sem51.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\seminar1\sem51\obj\Debug\net6.0\ref\sem51.dll
