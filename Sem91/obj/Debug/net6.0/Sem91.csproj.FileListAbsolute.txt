@@ -1,0 +1,15 @@
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.csproj.AssemblyReference.cache
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.AssemblyInfoInputs.cache
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.AssemblyInfo.cs
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Desktop\seminar1\Sem91\bin\Debug\net6.0\Sem91.exe
+C:\Users\Ольга\Desktop\seminar1\Sem91\bin\Debug\net6.0\Sem91.deps.json
+C:\Users\Ольга\Desktop\seminar1\Sem91\bin\Debug\net6.0\Sem91.runtimeconfig.json
+C:\Users\Ольга\Desktop\seminar1\Sem91\bin\Debug\net6.0\Sem91.dll
+C:\Users\Ольга\Desktop\seminar1\Sem91\bin\Debug\net6.0\Sem91.pdb
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.dll
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\refint\Sem91.dll
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.pdb
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\Sem91.genruntimeconfig.cache
+C:\Users\Ольга\Desktop\seminar1\Sem91\obj\Debug\net6.0\ref\Sem91.dll
